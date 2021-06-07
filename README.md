@@ -1,9 +1,5 @@
 # AutoTrader Car Data Scraper
-# Final Project -- Qihan Guan, Michael Harris, Luyao Wang
-----------------------------------------
-
-
-# Overview
+Final Project -- Qihan Guan, Michael Harris, Luyao Wang
 -----------------------------------------
 There are two source code copies, '422 Final Project Autotrader-Search1.ipynb'
 and '422 Final Project Autotrader-Search2.ipynb'. The two source code copies
